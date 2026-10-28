@@ -1,4 +1,10 @@
-Privacy policy
+# StardustSeeker
+
+This is the catalog integration application for our Etsy store.
+
+Visit our official Etsy storefront: [StardustSeeker Etsy Shop](https://www.etsy.com/shop/StardustSeeker)
+
+## Privacy Policy
 
 At Stardust Seeker, we value and respect your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit or make a purchase from our Etsy shop. By accessing or using our shop, you agree to the terms of this Privacy Policy.
 
